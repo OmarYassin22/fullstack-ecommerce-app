@@ -1,0 +1,10 @@
+@BrilliantMind_HostAddress = https://localhost:7118
+
+GET {{BrilliantMind_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{BrilliantMind_HostAddress}}/api/books/GetAllBooks
+
+###

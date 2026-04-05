@@ -1,0 +1,6 @@
+# Local secrets / env-specific config
+**/appsettings.Development.json
+**/appsettings.Local.json
+.env
+.env.*
+secrets.json
