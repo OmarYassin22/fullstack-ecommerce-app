@@ -104,24 +104,38 @@ STRIPE_KEY=
 
 ### 🖥️ Home Page
 
-<img width="1821" height="868" alt="image" src="https://github.com/user-attachments/assets/9b70ed49-43c9-44de-8e4a-acc8bbddbc6a" />
+<img width="1808" height="904" alt="image" src="https://github.com/user-attachments/assets/99a317a6-5a3a-4197-b0ce-0c5c4c44a7e5" />
 
 ### 🔐 Login Page
 
-<img width="1797" height="873" alt="image" src="https://github.com/user-attachments/assets/5aee2ccb-1ba0-47a6-b2e2-0295a6f081fc" />
+<img width="1811" height="887" alt="image" src="https://github.com/user-attachments/assets/d9e927fb-c134-4295-b01b-876e071a945e" />
 
 ### 🛍️ Products Page
 
-<img width="1811" height="910" alt="image" src="https://github.com/user-attachments/assets/73b9053a-15c2-4155-a561-d0353a809ef1" />
+<img width="1770" height="892" alt="image" src="https://github.com/user-attachments/assets/42cb9d7e-78ff-4e89-ac22-02d73aaa396e" />
 
 ### 🛒 Cart Page
 
-<img width="1758" height="881" alt="image" src="https://github.com/user-attachments/assets/c85cfa02-03fd-43e7-883b-6c964fe2f91d" />
+<img width="1781" height="922" alt="image" src="https://github.com/user-attachments/assets/123e7ff4-5b4e-49ba-83ed-57a7b957bed3" />
 
 ### 📊 Admin Dashboard
 
-<img width="1762" height="865" alt="image" src="https://github.com/user-attachments/assets/f3c3f0df-15d4-4bde-884a-dc03f25fd09b" />
+<img width="1781" height="889" alt="image" src="https://github.com/user-attachments/assets/8b33bdc4-587c-433d-8b9f-f25f5e8eb590" />
 
+---
+## 📬 API Testing
+
+You can test all API endpoints using Postman:
+
+- Import the collection from the `postman` folder
+- Set the `jwt_token` variable after login
+### Collection Overview
+<img width="455" height="305" alt="image" src="https://github.com/user-attachments/assets/ecb9f7c0-622e-495a-acda-7f514c235aed" />
+
+### Sample Request
+<img width="1081" height="689" alt="image" src="https://github.com/user-attachments/assets/e6bc16c8-8579-4ab2-9a92-b2e4dbe984aa" />
+
+  
 ---
 
 ## 📌 Notes
